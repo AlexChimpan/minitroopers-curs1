@@ -15,7 +15,7 @@ src/
           HelloJava.java
           StaticTypingDemo.java
           PrimitivesDemo.java
-          OperatorsAndControlFlow.java
+          OperatorsDemo.java
         classdesign/
           PersonImmutable.java
           InitOrderDemo.java
